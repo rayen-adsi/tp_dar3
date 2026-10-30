@@ -41,13 +41,13 @@ Les consoles permettent de vérifier le démarrage du serveur, la connexion du c
 
 Cette capture montre le serveur en cours d'exécution et les informations relatives aux connexions reçues.
 
-![Console du serveur — Partie 1](captureCONSOLE_server3-1.png)
+![Console du serveur — Partie 1](capture\captureCONSOLE_server3-1.png)
 
 ### Capture 2 — Console du client
 
 Cette capture présente le client après son lancement et sa connexion au serveur.
 
-![Console du client — Partie 1](captureCONSOLE_client3-1.png)
+![Console du client — Partie 1](capture\captureCONSOLE_client3-1.png)
 
 ## 4. Test avec Telnet
 
@@ -57,9 +57,9 @@ Ce test permet notamment d'observer l'ouverture d'une connexion depuis un termin
 
 ### Capture 3 — Connexion avec Telnet
 
-![Test avec Telnet](capturetelnet.png)
+![Test avec Telnet](capture\capturetelnet.png)
 
-![Test avec Telnet](captureserver_telnet.png)
+![Test avec Telnet](capture\captureserver_telnet.png)
 
 ---
 
@@ -104,7 +104,7 @@ Le serveur est lancé avant les clients. Il attend leurs connexions, reçoit les
 
 Cette capture montre le serveur de calculatrice en fonctionnement et les informations affichées lors du traitement des opérations.
 
-![Serveur de calculatrice — Partie 2](captureCONSOLE_server3-2.png)
+![Serveur de calculatrice — Partie 2](capture\captureCONSOLE_server3-2.png)
 
 ## 5. Test de plusieurs clients simultanément
 
@@ -115,11 +115,11 @@ Ce test permet de vérifier que le serveur accepte plusieurs connexions et que l
 ### Capture 5 — Plusieurs clients simultanés
 Premier client
 
-![Plusieurs clients simultanés — Partie 2](captureCL.png)
+![Plusieurs clients simultanés — Partie 2](capture\captureCL.png)
 
 deuxieme client
 
-![Plusieurs clients simultanés — Partie 2](captureCONSOLE_client3-2.png)
+![Plusieurs clients simultanés — Partie 2](capture\captureCONSOLE_client3-2.png)
 
 ---
 
